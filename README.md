@@ -1,7 +1,7 @@
 # Apptrian-Minify v2.0.1 (Last Version) For Magento 1.x
-This is a composer installer version of Apptrian_Minify
+### This is a composer installer version of Apptrian_Minify
 
-Installation Instructions
+#### Installation Instructions
 
 If you are using Expire Headers before merging and minifying CSS/JS files you must disable Expire Headers. You can enable Expire Header after everything is merged, minifyed and tested to work.
 
